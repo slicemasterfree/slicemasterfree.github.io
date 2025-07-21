@@ -3,5 +3,45 @@
         "name": "Slice Master",
         "slug": "slice-master",
         "image": "/cache/data/image/game/slice-master/slicemaster-m186x186.webp"
+    },
+    {
+        "name": "Slice It All",
+        "slug": "slice-it-all",
+        "image": "/cache/data/image/game/slice-it-all/slice-it-all-m186x186.webp"
+    },
+    {
+        "name": "Knife Jump",
+        "slug": "knife-jump",
+        "image": "/cache/data/image/game/knife-jump/knife-jump-m186x186.webp"
+    },
+    {
+        "name": "Knife Up 3D",
+        "slug": "knife-up-3d",
+        "image": "/cache/data/image/game/knife-up-3d/knife-up-3d-m186x186.webp"
+    },
+    {
+        "name": "Flip The Knife",
+        "slug": "flip-the-knife",
+        "image": "/cache/data/image/game/flip-the-knife/flip-the-knife-m186x186.webp"
+    },
+    {
+        "name": "Perfect Slices Master",
+        "slug": "perfect-slices-master",
+        "image": "/cache/data/image/game/perfect-slices-master/perfect-slices-master-game-m186x186.webp"
+    },
+    {
+        "name": "ASMR Slicing",
+        "slug": "asmr-slicing",
+        "image": "/cache/data/image/game/asmr-slicing/asmr-slicing-m186x186.webp"
+    },
+    {
+        "name": "Slice of Zen",
+        "slug": "slice-of-zen",
+        "image": "/cache/data/image/game/slice-of-zen/slice-of-zen-m186x186.webp"
+    },
+    {
+        "name": "Perfect Ninja Slices",
+        "slug": "perfect-ninja-slices",
+        "image": "/cache/data/image/game/perfect-ninja-slices/perfect-ninja-slices-m186x186.webp"
     }
 ]
